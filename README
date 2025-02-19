@@ -1,0 +1,11 @@
+APK 签名工具
+
+功能：
+·验证 APK 签名
+·选择 APK 文件并验证其签名状态。
+
+环境要求：
+Java 运行时环境（确保 java PATH正常）
+
+其他：
+Gui 版 apksigner.jar, 提取自SDK 35.0.1
